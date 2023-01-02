@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajg19 and have been ever since I was given my first VAX UID
 - 👀 I’m interested in far too many things
 - 🌱 I’m currently learning mandarin
-- 💞️ I’m looking to collaborate on portfolio management and VC simulation
+- 💞️ I’m looking to collaborate on portfolio management and VC simulation with a particular emphasis on the LP perspective.
 - 📫 Reach me on ajg@jamesgillco.com or +4 7909 680 711
 
 <!---
